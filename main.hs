@@ -1,7 +1,7 @@
 {-
 --
 -- EPITECH PROJECT, 2024
--- B-PDG-300-RUN-3-1-PDGRUSH1-pierre-alexandre.grosset
+--
 -- File description:
 -- Rush1 - Pushswap Checker
 --
